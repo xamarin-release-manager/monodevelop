@@ -1,4 +1,4 @@
-<Addin id          = "JavaBinding"
+<Addin id           = "JavaBinding"
        namespace   = "MonoDevelop"
        name        = "Java Language Binding"
        author      = "Todd Berman"
