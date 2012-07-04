@@ -1,4 +1,5 @@
 <SerializationMap>
+
 	<DataItem class = "CBinding.CProject">
 		<ItemProperty member="compiler_manager" name="compiler" valueType="CBinding.CCompiler"/>
 		<ItemProperty member="language" />
